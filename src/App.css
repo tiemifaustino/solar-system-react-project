@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -28,6 +29,10 @@ h2 {
   font-size: 3rem;
 }
 
+.m-container {
+  padding-top: 50px ;
+}
+
 .h2-container {
   align-items: center;
   border: 1px solid rgb(151, 147, 147);
@@ -35,14 +40,13 @@ h2 {
   display: flex;
   height: 100px;
   justify-content: center;
-  margin: 40px 200px;
+  margin: 0 200px;
 }
 
 .solar-system-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-bottom: 100px;
 }
 
 .planets-container {
@@ -51,10 +55,13 @@ h2 {
   flex-wrap: wrap;
   font-size: 1.15rem;
   justify-content: center;
+  padding: 50px 0;
+  height: 400px;
 }
 
 .planet {
   text-align: center;
+  margin: 0 5px;
 }
 
 .Mercúrio {

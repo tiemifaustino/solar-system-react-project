@@ -6,7 +6,7 @@ import MissionCard from './MissionCard';
 class Missions extends Component {
   render() {
     return (
-      <div data-testid="missions">
+      <div className="m-container" data-testid="missions">
         <Title headline="Missões" />
         <div className="missions-container">
           {
