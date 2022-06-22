@@ -1,4 +1,4 @@
-# Projeto Sistema Solar
+# Projeto Sistema Solar 🌞
 
 Projeto realizado para o curso de Desenvolvimento Web pela [Trybe](https://www.betrybe.com/), a escola que te ensina a programar, a aprender e a trabalhar.
 
@@ -22,7 +22,8 @@ Projeto realizado para o curso de Desenvolvimento Web pela [Trybe](https://www.b
 
 ## Desenvolvimento
 
-Aplicação simulando um modelo do sistema solar e informações sobre diversas missões espaciais que ocorreram ao longo da história utilizando [React](https://pt-br.reactjs.org/).
+- Aplicação simulando um modelo do sistema solar e informações sobre diversas missões espaciais que ocorreram ao longo da história utilizando [React](https://pt-br.reactjs.org/).
+- Estilização baseada no protótipo do [Figma](https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=1152%3A14) fornecido pela Trybe.
 
 
 ### Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
